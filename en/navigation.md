@@ -18,13 +18,14 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Home]()
+[Research](pages/research.md)
 [People](pages/members.md)
-[Publications]()
-[Academic]()
-[Funding]()
-[Resources]()
-[Contact]()
+[Publications](pages/publications.md)
+[Academic](pages/academic.md)
+[Funding](pages/funding.md)
+[Resources](pages/resources.md)
+[Jobs](pages/jobs.md)
+[Contact](pages/contact.md)
 [About](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
