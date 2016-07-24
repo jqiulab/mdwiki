@@ -1,9 +1,9 @@
 <!--
-  -- Name of your wiki
+  -- Qiu Lab
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Qiu Lab
 
 
 <!--
@@ -11,16 +11,21 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 
 
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
+[Home]()
+[People](pages/members.md)
+[Publications]()
+[Academic]()
+[Funding]()
+[Resources]()
+[Contact]()
 [About](pages/about.md)
-[Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -60,6 +65,5 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
 [gimmick:themechooser](Choose theme)
--->
+
